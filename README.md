@@ -13,6 +13,7 @@ Le projet inclut :
 
 ## Structure du projet
 
+```
 ising-finite/
 ├── Ising_Model.ipynb           # Contient le notebook Jupyter
 ├── assets/                     # Illustrations générées
@@ -20,6 +21,7 @@ ising-finite/
 │   ├── ...
 │   └── illu_13.png
 └── README.md
+```
 
 ---
 
