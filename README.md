@@ -28,7 +28,7 @@ ising-finite/
 ## Installation
 1. Cloner le dépôt :  
 ```bash
-git clone https://github.com/ton-utilisateur/ising-finite.git
+git clone https://github.com/victor-pcll/ising-finite.git
 cd ising-finite
 python -m venv venv
 source venv/bin/activate  # macOS / Linux
