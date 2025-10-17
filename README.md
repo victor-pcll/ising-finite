@@ -20,6 +20,7 @@ ising-finite/
 │   ├── illu_1.png
 │   ├── ...
 │   └── illu_13.png
+├── requirements.txt            # packages
 └── README.md
 ```
 
@@ -33,7 +34,7 @@ cd ising-finite
 python -m venv venv
 source venv/bin/activate  # macOS / Linux
 venv\Scripts\activate     # Windows
-pip install numpy matplotlib scipy
+pip install -r requirements.txt
 ```
 
 ---
