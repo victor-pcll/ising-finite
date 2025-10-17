@@ -14,14 +14,12 @@ Le projet inclut :
 ## Structure du projet
 
 ising-finite/
-│
-├─ notebook/                   # Contient le notebook Jupyter
-│   └─ Ising_Model.ipynb
-│
-├─ images/                     # Illustrations générées
-│   └─ spin_configurations.png
-│
-└─ README.md
+├── Ising_Model.ipynb           # Contient le notebook Jupyter
+├── assets/                     # Illustrations générées
+│   ├── illu_1.png
+│   ├── ...
+│   └── illu_13.png
+└── README.md
 
 ---
 
