@@ -41,9 +41,9 @@ pip install numpy matplotlib scipy
 ## Objectif pédagogique
 
 Ce projet vise à :
-	•	Comprendre le modèle d’Ising et ses concepts clés en physique statistique.
-	•	Visualiser l’effet des fluctuations thermiques sur un réseau fini.
-	•	Étudier la transition de phase dans un système fini.
+- Comprendre le modèle d’Ising et ses concepts clés en physique statistique.
+- Visualiser l’effet des fluctuations thermiques sur un réseau fini.
+- Étudier la transition de phase dans un système fini.
 
 ---
 
