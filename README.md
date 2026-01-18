@@ -41,4 +41,4 @@ pip install -r requirements.txt
 
 ## Références
 
-**Physique statistique ** : Physique statistique (PHYS-338), École Polytechnique Fédérale de Lausanne, Prof. Florent Krzakala
+**Physique statistique** : Physique statistique (PHYS-338), École Polytechnique Fédérale de Lausanne, Prof. Florent Krzakala
