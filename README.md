@@ -39,15 +39,6 @@ pip install -r requirements.txt
 
 ---
 
-## Objectif pédagogique
-
-Ce projet vise à :
-- Comprendre le modèle d’Ising et ses concepts clés en physique statistique.
-- Visualiser l’effet des fluctuations thermiques sur un réseau fini.
-- Étudier la transition de phase dans un système fini.
-
----
-
 ## Références
 
-**Physique statistique 2** : Transitions de phase, École Polytechnique Fédérale de Lausanne, Prof. Matthieu Wyart, Rédigé par Jonas Paccolat
+**Physique statistique ** : Physique statistique (PHYS-338), École Polytechnique Fédérale de Lausanne, Prof. Florent Krzakala
